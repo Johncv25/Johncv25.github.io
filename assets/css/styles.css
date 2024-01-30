@@ -799,7 +799,7 @@ header h2{
 }
 .cards{
   width: 100%;
-  max-width:310px;
+  max-width:320px;
   height: fit-content;
   /* max-height: 360px; */
   display: flex;
